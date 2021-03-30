@@ -17,3 +17,9 @@ brew help
 echo "Installing github CLI"
 echo "🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙"
 brew install gh 
+
+######################## Installing pip ####################
+echo "installing pip"
+echo "🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍"
+sudo apt install python3-pip
+sudo pip3 install virtualenv
